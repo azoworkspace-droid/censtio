@@ -1,0 +1,114 @@
+CENTSIO AI: INVOICE MAKER
+TERMS OF SERVICE
+
+Last updated: August 11, 2026
+
+These Terms of Service ("Terms") govern your use of Centsio AI: Invoice Maker (the "App"). By downloading, accessing, or using the App, you agree to these Terms.
+
+Before publishing these Terms, replace the bracketed placeholders with your real legal business name, address, country, governing law, and support email. This document is a general product draft and is not legal advice.
+
+1. PROVIDER AND CONTACT
+
+The App is provided by:
+
+[LEGAL BUSINESS NAME]
+[BUSINESS ADDRESS]
+[COUNTRY]
+Email: [SUPPORT EMAIL]
+
+In these Terms, "Centsio", "we", "us", and "our" refer to the provider above.
+
+2. THE SERVICE
+
+Centsio AI: Invoice Maker helps freelancers and small businesses create invoices and quotes, track expenses, organize business information, export documents, and view financial summaries.
+
+Features may change, be improved, or be discontinued. Some features may require a Centsio Pro subscription.
+
+3. YOUR ACCOUNT AND DEVICE
+
+You are responsible for your device, Apple account, app access, passcode, exported files, and the accuracy of information entered into the App. You must use the App only for lawful purposes and only with information you are authorized to use.
+
+4. YOUR CONTENT
+
+You retain ownership of the names, business information, client information, logos, invoices, quotes, expenses, images, and other content you enter into the App ("Your Content").
+
+You grant us only the limited rights needed to operate features that you request. For example, when you use an AI scanning or voice feature, Your Content may be sent to the configured AI provider so that the requested result can be generated.
+
+You are responsible for obtaining permission to use client information, logos, images, recordings, and other material that you submit.
+
+5. AI FEATURES AND FINANCIAL INFORMATION
+
+AI-generated results are suggestions and may be incomplete, inaccurate, or unsuitable for your situation. You must review and correct every generated invoice, quote, expense, tax value, and report before using or sending it.
+
+Centsio does not provide tax, accounting, legal, investment, or financial advice. Tax calculations and financial summaries are estimates and may not reflect your legal obligations. Consult a qualified professional for advice.
+
+6. FREE USE AND PRO SUBSCRIPTIONS
+
+The free version may limit the number of invoices, quotes, and expenses that can be created during a billing period. The current free limit may be three combined records per month.
+
+Centsio Pro may include unlimited invoices, quotes, and expenses, custom branding, clean PDF exports, advanced tax reports, AI tools, and other premium features. The exact features may change and are shown in the App.
+
+7. BILLING, RENEWAL, AND RESTORATION
+
+Subscriptions are purchased through the Apple App Store. Payment is charged to your Apple ID account when the purchase is confirmed. Subscriptions renew automatically unless cancelled at least 24 hours before the end of the current subscription period, subject to Apple's policies.
+
+You can manage or cancel a subscription in your Apple account subscription settings. Any free trial, renewal, refund, cancellation, and payment terms are controlled by Apple's applicable terms and App Store rules.
+
+You may use the Restore Purchases action in the App to restore an eligible purchase. Access to Pro features is granted when the App receives a valid active entitlement.
+
+8. ACCEPTABLE USE
+
+You must not:
+
+- Use the App for unlawful, fraudulent, deceptive, or abusive activity.
+- Submit content that you do not have the right to use.
+- Attempt to reverse engineer, disrupt, abuse, or bypass App limits or security controls.
+- Use the App to create documents intended to impersonate another person or business.
+- Upload harmful code or content that could damage the App or another person's device.
+
+9. INTELLECTUAL PROPERTY
+
+The App, its software, design, branding, text, and original materials are owned by or licensed to [LEGAL BUSINESS NAME] and are protected by applicable intellectual-property laws. These Terms do not transfer ownership of the App to you.
+
+10. THIRD-PARTY SERVICES
+
+The App may use Apple, RevenueCat, Google Gemini, hosting providers, and other third-party services. Their services may have separate terms and privacy policies. We are not responsible for third-party services that we do not control.
+
+11. AVAILABILITY AND CHANGES
+
+We work to keep the App available, but we do not guarantee uninterrupted or error-free operation. We may update, suspend, restrict, or discontinue all or part of the App when reasonably necessary for maintenance, security, legal, or business reasons.
+
+12. TERMINATION
+
+You may stop using the App at any time. We may suspend or terminate access if you materially breach these Terms, misuse the App, or create a security or legal risk. Termination does not remove rights or obligations that should reasonably continue, including payment obligations and disclaimers.
+
+13. DISCLAIMERS
+
+To the maximum extent permitted by law, the App is provided on an "as available" and "as is" basis. We do not guarantee that the App will meet every requirement, produce error-free documents, calculate taxes correctly, or preserve every item of data.
+
+14. LIMITATION OF LIABILITY
+
+To the maximum extent permitted by law, [LEGAL BUSINESS NAME] will not be liable for indirect, incidental, special, consequential, exemplary, or punitive damages, or for loss of profits, revenue, data, goodwill, or business opportunities arising from use of or inability to use the App.
+
+Nothing in these Terms excludes or limits liability that cannot legally be excluded or limited in your jurisdiction.
+
+15. INDEMNITY
+
+To the extent permitted by law, you agree to defend and hold harmless [LEGAL BUSINESS NAME] from claims, losses, liabilities, and expenses arising from Your Content, your misuse of the App, your violation of these Terms, or your violation of another person's rights.
+
+16. GOVERNING LAW
+
+These Terms are governed by the laws of [COUNTRY / STATE], without regard to conflict-of-law rules. Any dispute will be handled by the courts of [CITY / COUNTRY], unless mandatory consumer-protection law gives you another right.
+
+17. CHANGES TO THESE TERMS
+
+We may update these Terms when the App or applicable law changes. We will update the date at the top and publish the revised Terms at this URL. Continued use of the App after an update means you accept the revised Terms, to the extent permitted by law.
+
+18. CONTACT
+
+Questions about these Terms can be sent to:
+
+[LEGAL BUSINESS NAME]
+[BUSINESS ADDRESS]
+Email: [SUPPORT EMAIL]
+

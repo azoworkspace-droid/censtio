@@ -1,0 +1,133 @@
+CENTSIO AI: INVOICE MAKER
+PRIVACY POLICY
+
+Last updated: August 11, 2026
+
+This Privacy Policy explains how [LEGAL BUSINESS NAME] ("Centsio", "we", "us", or "our") handles information when you use Centsio AI: Invoice Maker (the "App").
+
+Before publishing this policy, replace the bracketed placeholders with your real legal business name, address, country, and support email. This document is a general product draft and is not legal advice.
+
+1. WHO WE ARE
+
+Centsio AI: Invoice Maker is an invoice, quote, expense, and business-finance organization app for freelancers and small businesses.
+
+Data controller:
+[LEGAL BUSINESS NAME]
+[BUSINESS ADDRESS]
+[COUNTRY]
+Email: [SUPPORT EMAIL]
+
+2. INFORMATION YOU ENTER IN THE APP
+
+Depending on the features you use, the App may store information such as:
+
+- Your business or personal name, profile type, job title, country, and address.
+- Currency, tax preferences, tax ID type, tax number, and default tax rate.
+- Payment details that you choose to place on invoices.
+- Client names and contact details that you enter.
+- Invoices, quotes, expenses, notes, amounts, dates, and related records.
+- A business logo or other images that you choose to import.
+- App preferences, onboarding progress, and security settings.
+
+This information is used to provide the App's invoicing, quote, expense, PDF, reporting, and settings features.
+
+3. WHERE YOUR DATA IS STORED
+
+The App is designed to store your workspace data locally on your device by default. We do not send your tax numbers, bank details, names, or invoice content to our analytics system.
+
+If you delete the App or use an in-App delete/reset feature, locally stored data may be removed. You are responsible for keeping any copies you need. Do not rely on the App as your only backup.
+
+4. AI FEATURES
+
+Some optional features use artificial intelligence, including receipt scanning, invoice or document scanning, and voice input.
+
+When you choose to use an AI feature, the image, audio, transcript, or text required to process your request may be sent to our AI service provider, such as Google Gemini. The information is used to return structured suggestions to the App. You should review every AI result before relying on it and should not submit information that you are not authorized to share.
+
+AI results may be incomplete or inaccurate. The App does not provide tax, accounting, legal, or financial advice.
+
+5. SUBSCRIPTIONS AND PAYMENTS
+
+The App may offer Centsio Pro subscriptions. Apple processes App Store payments. RevenueCat helps us manage subscription status, purchases, restores, and entitlement access.
+
+RevenueCat and Apple may process information such as an anonymous app user identifier, transaction identifiers, product identifiers, subscription status, renewal status, and purchase dates. We do not receive or store your full payment card number through the App.
+
+For more information, see Apple's privacy information and RevenueCat's privacy policy:
+
+Apple: https://www.apple.com/legal/privacy/
+RevenueCat: https://www.revenuecat.com/privacy/
+
+6. ANALYTICS
+
+The App currently records a limited, privacy-safe list of product events locally on the device. These events may include onboarding progress, feature usage, subscription screens, and completed actions.
+
+Analytics events are designed not to include tax numbers, bank details, names, client information, invoice content, or receipt content. If we introduce a remote analytics provider in the future, we will update this Privacy Policy before doing so.
+
+7. DEVICE PERMISSIONS
+
+The App may request permission for the following features:
+
+- Camera: scanning receipts or invoice images.
+- Photos: selecting a logo or image.
+- Microphone: voice input.
+- Speech recognition: converting voice into editable text.
+
+Permissions are requested for the related feature and can be changed in your device settings.
+
+8. HOW WE USE INFORMATION
+
+We use information to:
+
+- Provide and maintain the App.
+- Create, edit, calculate, export, and organize invoices, quotes, expenses, and reports.
+- Save your preferences and restore your workspace.
+- Process AI requests that you start.
+- Manage subscriptions, restores, and Pro access.
+- Protect the App and prevent misuse.
+- Respond to support requests.
+- Comply with legal obligations.
+
+9. WHEN INFORMATION MAY BE SHARED
+
+We may share limited information with service providers that help us operate the App, including:
+
+- Apple, for App Store distribution and payments.
+- RevenueCat, for subscription and entitlement management.
+- Google Gemini or another configured AI provider, only when you use an AI feature.
+- Hosting, security, or support providers, if needed to operate the service.
+
+We may also disclose information when required by law, to protect rights and safety, or in connection with a merger, acquisition, financing, or sale of assets. We do not sell your personal information.
+
+10. DATA RETENTION AND DELETION
+
+Workspace data stored locally remains on your device until you delete it, reset the workspace, remove the App, or otherwise clear the relevant device data. Information handled by Apple, RevenueCat, or an AI provider is retained according to the applicable provider's policies and legal obligations.
+
+To request help with privacy or deletion questions, contact us at [SUPPORT EMAIL]. Please do not include tax numbers, bank details, or full invoice contents in an initial support email.
+
+11. SECURITY
+
+We use reasonable technical and organizational measures appropriate to the App. No method of storage or transmission is completely secure. You are responsible for protecting your device, passcode, Apple account, and any exported files.
+
+12. CHILDREN
+
+The App is intended for freelancers, professionals, and small businesses. It is not directed to children under 13, and we do not knowingly collect personal information from children under 13.
+
+13. INTERNATIONAL USE
+
+You may use the App from different countries. Service providers may process information in countries other than your own. Where required, we use appropriate safeguards for international transfers.
+
+14. YOUR RIGHTS
+
+Depending on where you live, you may have rights to access, correct, delete, restrict, object to, or receive a copy of your personal information. You may also have the right to complain to your local data-protection authority. Contact us at [SUPPORT EMAIL] to make a request.
+
+15. CHANGES TO THIS POLICY
+
+We may update this Privacy Policy when the App, our providers, or applicable laws change. We will update the date at the top and publish the revised version at this URL.
+
+16. CONTACT
+
+Privacy questions can be sent to:
+
+[LEGAL BUSINESS NAME]
+[BUSINESS ADDRESS]
+Email: [SUPPORT EMAIL]
+
